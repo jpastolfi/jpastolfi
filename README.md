@@ -1,0 +1,1 @@
+Hello there! My name is João and I'm a deck officer considering a carreer change. I've studied some HTML, CSS and Java in the past but currently I've been studying Python to try out some of the most known programming languages.
