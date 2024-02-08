@@ -4,7 +4,10 @@
 <img width=150px src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif" width="120" align="right">
  <p align="left">
 Former maritime officer turned software enthusiast, navigating the depths of code with the same precision and dedication I once brought to the high seas. With a background in safety and navigation aboard oil tanker relief vessels, I've transitioned into the world of software development, driven by a passion for problem-solving and a thirst for continuous learning. Leveraging my diverse experiences and knack for collaboration, I'm eager to contribute to innovative projects and explore new horizons in technology. Anchored by a commitment to quality and efficiency, I'm ready to set sail on this exciting journey of code and creativity<br/>
- 👉 <i>Email para contato: <b>jpastolfi@gmail.com</b></i>
+ 👉 <i>Email: <b>jpastolfi@gmail.com</b></i>
+ 👉 <i>Portfolio: <b>https://jpastolfi.com</b></i>
+ 👉 <i>Linkedin: <b>https://www.linkedin.com/in/jpastolfi/</b></i>
+
 </p>
 
 ## 👨‍💻 Skills:<br/>
