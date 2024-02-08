@@ -1,7 +1,7 @@
 # Hi! My name is João Pedro Astolfi, but you can call me João or just Jp.
 
 ## Welcome to my GitHub!
-<img width=150px src="https://i.pinimg.com/originals/48/e3/03/48e303bf57f8ad627c73a0e0e30f5f33.gif" width="120" align="right">
+<img width=150px src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif" width="120" align="right">
  <p align="left">
 Former maritime officer turned software enthusiast, navigating the depths of code with the same precision and dedication I once brought to the high seas. With a background in safety and navigation aboard oil tanker relief vessels, I've transitioned into the world of software development, driven by a passion for problem-solving and a thirst for continuous learning. Leveraging my diverse experiences and knack for collaboration, I'm eager to contribute to innovative projects and explore new horizons in technology. Anchored by a commitment to quality and efficiency, I'm ready to set sail on this exciting journey of code and creativity<br/>
  👉 <i>Email para contato: <b>jpastolfi@gmail.com</b></i>
